@@ -26,6 +26,24 @@ Il présente mon profil, mes compétences et mes projets avec des fonctionnalit�
 
 ---
 
+## Figma screenshots : 
+
+![alt](screenshots/figma.png)
+
+## website screenshots : 
+
+  # Home page : 
+![alt](screenshots/home.png)
+
+  # Projects page : 
+![alt](screenshots/projects.png)
+
+  # skills page : 
+![alt](screenshots/skills.png)
+
+  # contact page : 
+![alt](screenshots/contact.png)
+
 ##  Lien du site
  https://oumaima252.github.io/portfolio_Oumaima_Elmarzoqi/
 
