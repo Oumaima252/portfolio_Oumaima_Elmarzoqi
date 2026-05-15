@@ -32,12 +32,6 @@ Il présente mon profil, mes compétences et mes projets avec des fonctionnalit�
 
 ## website screenshots : 
 
-## Figma screenshots : 
-
-![alt](screenshots/figma.png)
-
-## website screenshots : 
-
   ### Home page : 
 ![alt](screenshots/home.png)
 
